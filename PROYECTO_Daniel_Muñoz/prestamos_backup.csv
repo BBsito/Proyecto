@@ -1,0 +1,4 @@
+alumno_dni,libro_isbn,fecha_prestamo,devuelto,fecha_devolucion
+12345678A,1234567891,2025-05-21,False,
+23456789B,1234567891,2025-05-21,True,2025-05-21
+23456789B,9876543211,2025-05-21,False,
